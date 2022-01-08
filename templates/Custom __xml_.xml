@@ -1,4 +1,4 @@
-<templateSet group="ProxiBlue Custom Templates(.php)">
+<templateSet group="ProxiBlue Custom Templates(.xml)">
   <template name="pbActionReplaceTemplate" value="    &lt;action method=&quot;setTemplate&quot;&gt;&#10;        &lt;argument name=&quot;template&quot; xsi:type=&quot;string&quot;&gt;NameSpace_Module::template/path.phtml&lt;/argument&gt;&#10;    &lt;/action&gt;" shortcut="TAB" description="XML action to replace block template" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
